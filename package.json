@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "gitdown ./_README.md --output-file ./README.md"
+  },	
+  "dependencies": {
+    "gitdown": "^2.5.0"
+  }
+}
